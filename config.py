@@ -32,7 +32,6 @@ I am a powerful rename bot! With 2GB+ file support and custom thumbnail and capt
 
 Click help button to know more about me
 
-
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
