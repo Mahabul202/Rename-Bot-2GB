@@ -30,14 +30,9 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """Hello {} 👋 
+I am a powerful rename bot! With 2GB+ file support and custom thumbnail and caption features.
 
-➻ This Is An Advanced And Yet Powerful Rename Bot.
-
-➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.
-
-➻ You Can Also Convert Video To File And File To Video.
-
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
+Click help button to know more about me
 
 <b>Bot Is Made By :</b> @Hindi_Dub_Animes_Official"""
 
