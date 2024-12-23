@@ -44,7 +44,7 @@ class Txt(object):
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
-├<b>👿 Animes</b> : <a href=https://t.me/Hindi_Dub_Animes_Official</a> 
+├<b>👿 Animes</b> : <a href=https://t.me/Hindi_Dub_Animes_Official<Anime Channel</a> 
 ├<b>👨‍💻 Movies</b> : <a href=https://t.me/Hindi_Dub_Netflix_Movies>Movie Channel</a>
 ├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
