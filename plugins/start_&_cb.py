@@ -12,10 +12,10 @@ async def start(client, message):
     await jishubotz.add_user(client, message)                
     button = InlineKeyboardMarkup([
         [InlineKeyboardButton(' Animes', url='https://t.me/Hindi_Dub_Animes_Official'),
-        InlineKeyboardButton('♻️ Movies', url='https://t.me/Hindi_Dub_Netflix_Movies')],
-        [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
-        InlineKeyboardButton('🛠️ Help', callback_data='help')],
-        [InlineKeyboardButton("👨‍💻 Developer", url='https://t.me/Mahabul201')]
+        InlineKeyboardButton(' Movies', url='https://t.me/Hindi_Dub_Netflix_Movies')],
+        [InlineKeyboardButton(' About', callback_data='about'),
+        InlineKeyboardButton(' Help', callback_dataa='help')],
+        [InlineKeyboardButton(" Developer", url='https://t.me/Mahabul201')]
     ])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
