@@ -14,7 +14,7 @@ async def start(client, message):
         [InlineKeyboardButton(' Animes', url='https://t.me/Hindi_Dub_Animes_Official'),
         InlineKeyboardButton(' Movies', url='https://t.me/Hindi_Dub_Netflix_Movies')],
         [InlineKeyboardButton(' About', callback_data='about'),
-        InlineKeyboardButton(' Help', callback_dataa='help')],
+        InlineKeyboardButton(' Help', callback_data='help')],
         [InlineKeyboardButton(" Developer", url='https://t.me/Mahabul201')]
     ])
     if Config.START_PIC:
