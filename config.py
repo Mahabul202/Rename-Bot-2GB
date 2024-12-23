@@ -32,6 +32,8 @@ I am a powerful rename bot! With 2GB+ file support and custom thumbnail and capt
 
 Click help button to know more about me
 
+<b>Bot Is Made By :</b> @Madflix_Bots"""
+    
     ABOUT_TXT = """
 ╭───────────────⍟
 ├<b>🤖 My Name</b> : {}
