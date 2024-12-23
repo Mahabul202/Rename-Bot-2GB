@@ -11,7 +11,7 @@ async def start(client, message):
     user = message.from_user
     await jishubotz.add_user(client, message)                
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton('🔊 Animes', url='https://t.me/Hindi_Dub_Animes_Official'),
+        [InlineKeyboardButton(' Animes', url='https://t.me/Hindi_Dub_Animes_Official'),
         InlineKeyboardButton('♻️ Movies', url='https://t.me/Hindi_Dub_Netflix_Movies')],
         [InlineKeyboardButton('❤️‍🩹 About', callback_data='about'),
         InlineKeyboardButton('🛠️ Help', callback_data='help')],
