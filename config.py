@@ -28,11 +28,12 @@ class Config(object):
 class Txt(object):
     # part of text configuration
     START_TXT = """Hello {} 👋 
+    
 I am a powerful rename bot! With 2GB+ file support and custom thumbnail and caption features.
 
 Click help button to know more about me
 
-<b>Bot Is Made By :</b> @Madflix_Bots"""
+<b>Bot Is Made By :</b> @Mahabul201"""
     
     ABOUT_TXT = """
 ╭───────────────⍟
