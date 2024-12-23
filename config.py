@@ -75,7 +75,7 @@ class Txt(object):
 
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
 
-𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MadflixOfficials>Developer</a>
+𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Mahabul201>Developer</a>
 """
 
     PROGRESS_BAR = """\n
@@ -100,7 +100,7 @@ For Example :-
 
 <code>By :- @Madflix_Bots</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Hindi_Dub_Animes_Official
 """
 
 
